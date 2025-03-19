@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tonikontinen/pizza-menu.git/static/css/main.067ded0a.css",
+    "main.js": "/tonikontinen/pizza-menu.git/static/js/main.0e699ab2.js",
+    "index.html": "/tonikontinen/pizza-menu.git/index.html",
+    "main.067ded0a.css.map": "/tonikontinen/pizza-menu.git/static/css/main.067ded0a.css.map",
+    "main.0e699ab2.js.map": "/tonikontinen/pizza-menu.git/static/js/main.0e699ab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067ded0a.css",
+    "static/js/main.0e699ab2.js"
+  ]
+}
