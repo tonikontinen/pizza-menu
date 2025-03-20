@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/tonikontinen/pizza-menu.git",
+  "homepage": "https://tonikontinen.github.io/pizza-menu",
   "eslintConfig": {
     "extends": [
       "react-app",
